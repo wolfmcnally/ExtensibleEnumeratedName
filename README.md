@@ -1,15 +1,9 @@
 # ExtensibleEnumeratedName
 
-[![CI Status](https://img.shields.io/travis/ironwolf/ExtensibleEnumeratedName.svg?style=flat)](https://travis-ci.org/ironwolf/ExtensibleEnumeratedName)
+[![CI Status](https://img.shields.io/travis/wolfmcnally/ExtensibleEnumeratedName.svg?style=flat)](https://travis-ci.org/wolfmcnally/ExtensibleEnumeratedName)
 [![Version](https://img.shields.io/cocoapods/v/ExtensibleEnumeratedName.svg?style=flat)](https://cocoapods.org/pods/ExtensibleEnumeratedName)
 [![License](https://img.shields.io/cocoapods/l/ExtensibleEnumeratedName.svg?style=flat)](https://cocoapods.org/pods/ExtensibleEnumeratedName)
 [![Platform](https://img.shields.io/cocoapods/p/ExtensibleEnumeratedName.svg?style=flat)](https://cocoapods.org/pods/ExtensibleEnumeratedName)
-
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
-## Requirements
 
 ## Installation
 
@@ -22,7 +16,7 @@ pod 'ExtensibleEnumeratedName'
 
 ## Author
 
-ironwolf, wolf@wolfmcnally.com
+Wolf McNally, wolf@wolfmcnally.com
 
 ## License
 

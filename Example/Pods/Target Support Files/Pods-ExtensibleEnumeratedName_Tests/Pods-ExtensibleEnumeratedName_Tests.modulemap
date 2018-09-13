@@ -1,0 +1,6 @@
+framework module Pods_ExtensibleEnumeratedName_Tests {
+  umbrella header "Pods-ExtensibleEnumeratedName_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
