@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ExtensibleEnumeratedName_Tests' do
+  pod 'ExtensibleEnumeratedName', :path => '../'
+  
+  
+end
