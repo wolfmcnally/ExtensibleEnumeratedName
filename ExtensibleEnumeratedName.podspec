@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
     s.name             = 'ExtensibleEnumeratedName'
     s.version          = '1.0'
-    s.summary          = 'A simple implementation of the forward pipe operator.'
+    s.summary          = 'Swift protocol for creating names that are type-safe, statically-bound, and extendible at compile time.'
 
     s.homepage         = 'https://github.com/wolfmcnally/ExtensibleEnumeratedName'
     s.license          = { :type => 'MIT', :file => 'LICENSE' }

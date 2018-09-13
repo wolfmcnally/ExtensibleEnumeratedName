@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/ExtensibleEnumeratedName.svg?style=flat)](https://cocoapods.org/pods/ExtensibleEnumeratedName)
 [![Platform](https://img.shields.io/cocoapods/p/ExtensibleEnumeratedName.svg?style=flat)](https://cocoapods.org/pods/ExtensibleEnumeratedName)
 
+Swift protocol for creating names that are type-safe, statically-bound, and extendible at compile time.
+
 ## Installation
 
 ExtensibleEnumeratedName is available through [CocoaPods](https://cocoapods.org). To install
