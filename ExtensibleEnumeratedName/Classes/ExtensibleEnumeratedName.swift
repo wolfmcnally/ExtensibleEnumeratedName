@@ -3,7 +3,7 @@
 //  WolfCore
 //
 //  Created by Wolf McNally on 6/22/16.
-//  Copyright © 2016 WolfMcNally.com.
+//  Copyright © 2016 Wolf McNally
 //
 
 public protocol ExtensibleEnumeratedName: RawRepresentable, Hashable, Comparable, CustomStringConvertible {
