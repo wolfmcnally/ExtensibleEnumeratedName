@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'ExtensibleEnumeratedName'
-    s.version          = '1.0.2'
+    s.version          = '1.0.3'
     s.summary          = 'Swift protocol for creating names that are type-safe, statically-bound, and extendible at compile time.'
 
     s.homepage         = 'https://github.com/wolfmcnally/ExtensibleEnumeratedName'
