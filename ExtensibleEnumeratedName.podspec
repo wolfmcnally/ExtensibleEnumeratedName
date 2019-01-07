@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'ExtensibleEnumeratedName'
-    s.version          = '1.0.3'
+    s.version          = '1.0.4'
     s.summary          = 'Swift protocol for creating names that are type-safe, statically-bound, and extendible at compile time.'
 
     s.homepage         = 'https://github.com/wolfmcnally/ExtensibleEnumeratedName'
@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
     s.author           = { 'Wolf McNally' => 'wolf@wolfmcnally.com' }
     s.source           = { :git => 'https://github.com/wolfmcnally/ExtensibleEnumeratedName.git', :tag => s.version.to_s }
 
-    s.source_files = 'ExtensibleEnumeratedName/Classes/**/*'
+    s.source_files = 'Sources/ExtensibleEnumeratedName/**/*'
 
     s.swift_version = '4.2'
 

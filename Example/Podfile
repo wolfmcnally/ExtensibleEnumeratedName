@@ -1,7 +1,0 @@
-use_frameworks!
-
-platform :ios, '10.0'
-
-target 'ExtensibleEnumeratedName_Tests' do
-  pod 'ExtensibleEnumeratedName', :path => '../'
-end
