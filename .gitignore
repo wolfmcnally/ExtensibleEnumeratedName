@@ -24,6 +24,8 @@ DerivedData
 
 # Swift Package Manager
 .build
+.swiftpm
+Package.resolved
 
 Carthage/Build
 Pods/
