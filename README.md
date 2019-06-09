@@ -9,7 +9,7 @@ Swift protocol for creating names that are type-safe, statically-bound, and exte
 
 ## Requirements
 
-Swift 4.2
+Swift 5.1
 
 ## Installation
 
