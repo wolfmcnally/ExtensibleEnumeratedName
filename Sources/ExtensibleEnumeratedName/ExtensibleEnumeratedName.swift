@@ -30,7 +30,7 @@ public protocol ExtensibleEnumeratedName: RawRepresentable, Hashable, Comparable
 
 extension ExtensibleEnumeratedName {
     // Hashable
-    public var hashValue: Int { return rawValue.hashValue }
+    public var hashValue: Int { rawValue.hashValue }
 
     // RawRepresentable
     // You must still provide this constructor:
@@ -38,10 +38,10 @@ extension ExtensibleEnumeratedName {
 
     // CustomStringConvertible
     public var description: String {
-        return String(describing: rawValue)
+        String(describing: rawValue)
     }
 }
 
 public func < <T: ExtensibleEnumeratedName>(left: T, right: T) -> Bool {
-    return left.rawValue < right.rawValue
+    left.rawValue < right.rawValue
 }
