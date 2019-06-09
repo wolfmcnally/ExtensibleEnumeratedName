@@ -7,10 +7,6 @@
 
 Swift protocol for creating names that are type-safe, statically-bound, and extendible at compile time.
 
-## Requirements
-
-Swift 5.1
-
 ## Installation
 
 ExtensibleEnumeratedName is available through [CocoaPods](https://cocoapods.org). To install
